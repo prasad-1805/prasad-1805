@@ -13,7 +13,7 @@
 - Web Scraping and APIs
 
 👨‍💻 My Projects:
-- [Zomato Restaurant Dashboard 🍽️](https://github.com/prasad-bramhankar-253827249/Zomato-Restaurant-Dashboard)
+- [Zomato Restaurant Dashboard 🍽️](https://github.com/prasad-1805/Zomato-Restaurant-Dashboard.git)
 
 🏆 Achievements:
 - 🥇 National Level Karate Champion
