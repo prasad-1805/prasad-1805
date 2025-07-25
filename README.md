@@ -35,8 +35,6 @@
 
 ### 📂 Featured Projects:
 - 🍽️ [Zomato Dashboard](https://github.com/prasad-1805/Zomato-Restaurant-Dashboard) – Data Analysis + Streamlit filters  
-- 📋 [Student Admission System](https://github.com/prasad-1805/Student-Admission-System) – Java-based GUI project  
-- 📁 [Course File System](https://github.com/prasad-1805/Course-File-System) – Python CLI + file handling
 
 ---
 
