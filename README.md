@@ -14,8 +14,6 @@
 
 👨‍💻 My Projects:
 - [Zomato Restaurant Dashboard 🍽️](https://github.com/prasad-bramhankar-253827249/Zomato-Restaurant-Dashboard)
-- [Student Admission System (Java)](https://github.com/your-project-link)
-- [Course File System (Python)](https://github.com/your-project-link)
 
 🏆 Achievements:
 - 🥇 National Level Karate Champion
